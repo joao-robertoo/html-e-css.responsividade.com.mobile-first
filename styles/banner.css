@@ -43,7 +43,7 @@
         width: 50%;
     }
 
-    .banner::placeholder {
+    .banner__pesquisa::placeholder {
         background-position: 7em;
     }
 }

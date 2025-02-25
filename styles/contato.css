@@ -3,7 +3,7 @@
     padding: 1em;
 }
 
-.contato__titulo, 
+.contato__titulo,
 .contato__texto {
     background: var(--azul-degrade);
     -webkit-background-clip: text;
@@ -43,13 +43,13 @@
         align-items: center;
     }
 
-    .contato_-titulo {
+    .contato__titulo {
         font-size: 24px;
-        width: 30%;
     }
 
-    .contato__descricao {
+    .contato__descrição {
         margin-right: 1em;
+        width: 30%;
     }
 
     .contato__email {
